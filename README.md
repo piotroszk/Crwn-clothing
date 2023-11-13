@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with Crown clothing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is mocked ecommerce shop with payment in stripe and all react functionalities like router and such.
 
 ## Available Scripts
 
